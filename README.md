@@ -1,2 +1,2 @@
-# Technology-Fundamentals-with-C#
-Technology Fundamentals with C#
+# Intro and Basic Syntax - Lab
+Intro and Basic Syntax - Lab
