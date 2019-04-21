@@ -1,2 +1,2 @@
 # Intro and Basic Syntax - Lab
-Intro and Basic Syntax - Lab
+Technology Fundamentals with C#
